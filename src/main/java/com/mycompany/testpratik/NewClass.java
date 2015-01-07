@@ -15,5 +15,6 @@ public class NewClass {
         System.out.println("asdasd");
         System.out.println("Jira Entegrasyon");
         System.out.println("Jira Entegrasyon 2");
+        System.out.println("Jira Entegrasyon 3");
     }
 }
